@@ -160,3 +160,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ---
 
 **Note**: Replace the placeholder images in this README with the actual screenshots you have. The current image URLs are placeholders and should be updated with your actual screenshot files.
+
+<!-- Quickdraw badge attempt - this comment will be removed -->
