@@ -1,3 +1,4 @@
+# Core dependencies
 streamlit==1.29.0
 neo4j==5.15.0
 groq==0.5.0
