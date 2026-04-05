@@ -2,6 +2,8 @@
 
 A powerful AI-powered chatbot that leverages Neo4j's Cyber Knowledge Graph (CKG) and Groq API to provide intelligent cybersecurity threat intelligence through natural language queries.
 
+---
+
 ## 🚀 Features
 
 - **Natural Language to Cypher Query**: Convert plain English questions into optimized Neo4j Cypher queries
@@ -162,3 +164,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ---
 
 **Note**: Replace the placeholder images in this README with the actual screenshots you have. The current image URLs are placeholders and should be updated with your actual screenshot files.
+
+<!-- Quickdraw badge attempt - this comment will be removed -->
