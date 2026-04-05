@@ -55,6 +55,8 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
+💡 **Tip**: Make sure you're in the virtual environment before installing dependencies.
+
 ### Step 5: Configure Environment Variables
 
 1. Copy the `.env` file and update it with your credentials:
