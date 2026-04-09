@@ -13,7 +13,7 @@ A powerful AI-powered chatbot that leverages Neo4j's Cyber Knowledge Graph (CKG)
 
 ## 📋 Prerequisites
 
-- Python 3.8 or higher
+- Python 3.8
 - Neo4j Desktop (version 1.6.1 or higher)
 - Groq API Key
 
