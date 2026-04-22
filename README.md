@@ -151,7 +151,6 @@ RL Based Cyber Threat Detection/
 3. Make your changes
 4. Submit a pull request
 
-
 ## 🙏 Acknowledgments
 
 - Neo4j for the graph database technology
