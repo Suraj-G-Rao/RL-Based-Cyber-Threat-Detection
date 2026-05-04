@@ -1,4 +1,4 @@
-# 🔍 Cyber Threat Intelligence Chatbot
+# Cyber Threat Intelligence Chatbot
 
 A powerful AI-powered chatbot that leverages Neo4j's Cyber Knowledge Graph (CKG) and Groq API to provide intelligent cybersecurity threat intelligence through natural language queries.
 
